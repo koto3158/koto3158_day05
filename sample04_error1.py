@@ -1,0 +1,1 @@
+f=open('data/not_exist.txt',mode='r')
