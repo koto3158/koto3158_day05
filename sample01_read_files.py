@@ -7,3 +7,6 @@ print(type(text))
 print(len(text))
 
 print(text)
+
+f.close()
+
